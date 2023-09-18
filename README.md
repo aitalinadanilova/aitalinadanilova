@@ -4,7 +4,7 @@
 
 ### My name is Aitalina Danilova: 
 
-Seeking a position in a good organization where I can apply the business skills I have acquired as a Junior Analyst and be able to improve the work experience I have gathered in the workplace.
+I am a data analyst with experience as an electrical engineer, I decided to change my profession to one that will give me more opportunities to see the world, and I am sure that IT is exactly the area in which I can realize my potential.
 
 ###### Skills: 
 Python (scipy, pandas, matplotlib, seaborn, plotly,), SQL (PostgreSQL), Tableu
