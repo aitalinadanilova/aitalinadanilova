@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**aitalinadanilova/aitalinadanilova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><a href="https://www.linkedin.com/in/aitalina-danilova-55329b25a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 
-Here are some ideas to get you started:
+### My name is Aitalina Danilova :raising_hand: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Seeking a position in a good organization where I can apply the business skills I have acquired as a Junior Analyst and be able to improve the work experience I have gathered in the workplace.
+
+###### Databases: 
+PostgreSQL, MySQL, Tableau
+
+###### Data Science: 
+Python, Pandas, Numpy, Matplotlib, SciPy
+
