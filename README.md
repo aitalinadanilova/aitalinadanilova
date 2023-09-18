@@ -6,9 +6,6 @@
 
 Seeking a position in a good organization where I can apply the business skills I have acquired as a Junior Analyst and be able to improve the work experience I have gathered in the workplace.
 
-###### Databases: 
-PostgreSQL, MySQL, Tableau
-
-###### Data Science: 
-Python, Pandas, Numpy, Matplotlib, SciPy
+###### Skills: 
+Python (scipy, pandas, matplotlib, seaborn, plotly,), SQL (PostgreSQL), Tableu
 
